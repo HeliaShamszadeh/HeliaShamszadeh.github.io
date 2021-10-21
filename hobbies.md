@@ -4,11 +4,11 @@ author_profile: true
 permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
-modified: 9-14-2019
+modified: 22-10-2021
 comments: false
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
-
-
+* [Studying French language](https://www.duolingo.com/course/fr/en/Learn-French)
+* [YouTube](https://www.youtube.com/)
+* [Reading Books](https://fidibo.com/)
