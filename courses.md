@@ -11,6 +11,6 @@ comments: false
 
 |           | **Current**                    |
 |----|------|--------------------------------|
-|2021-now| Fall | **<a href="">Computer Programming Fundamentals</a>**         |
+|2021| Now | **<a href="">Computer Programming Fundamentals</a>**         |
 |----|------|--------------------------------|
-|2021-now| Fall  | **<a href="">Computer Lab</a>** |
+|2021| Now  | **<a href="">Computer Lab</a>** |
