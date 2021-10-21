@@ -9,8 +9,8 @@ comments: false
 ---
 
 
-* [Favorite Author](http://myfavoritauthor.com)
-* [Places I want to visit](http://iwanttovisit.com)
-* [My home city](http://homecity.com)
-* [My university](http://myuniversity.com)
+* [Favorite Author](https://www.agathachristie.com/)(https://www.jkrowling.com/)
+* [Places I want to visit](https://www.enchantingtravels.com/travel-blog/iguazu-falls-the-worlds-largest-waterfalls/)
+* [My home city](https://www.britannica.com/place/Tehran)
+* [My university](http://iust.ac.ir)
 
