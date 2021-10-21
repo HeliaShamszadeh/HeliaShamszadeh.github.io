@@ -163,9 +163,9 @@ footer:
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url:
-    - label: "Calendly"
-      icon: "fas fa-calendar-alt"
-      url: "http://calendly.com/pourrang_atashi"
+    - label: "Telegram"
+      icon: "fab fa-telegram"
+      url: "http://t.me/Helia_ShZ"
 
 
 # Reading Files
