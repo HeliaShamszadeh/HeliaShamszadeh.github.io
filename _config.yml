@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "mint" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -109,7 +109,7 @@ author:
   name             : "Helia Shamszadeh"
   avatar           : "/assets/images/bio.jpg"
   bio              : I am a student of Computer Engineering at Iran University of Science and Technology. I hope you enjoy my website. 
-  location         : "Tehran,Iran"
+  location         : "Tehran, Iran"
   email            : h.shamszadeh81@gmai.com
   twitter: Albatrossism
   github: HeliaShamszadeh
