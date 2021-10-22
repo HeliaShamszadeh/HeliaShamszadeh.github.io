@@ -10,7 +10,7 @@ comments: false
 
 |     |    |**Education**                                                               |
 |-----|----|----------------------------------------------------------------------------------|
-|2021 |Now| **Bachelor**, Studying Computer Engineering at Iran University of Science and Technology |
+|2021 |Now| **Bachelor**, Computer Engineering, Iran University of Science and Technology, Tehran, Iran |
 |-----|----|----------------------------------------------------------------------------------|
-|2018 |2021| **Diploma**, Diploma certificate of Mathematics and Physics, Studied at Farzanegan1 Highschool, Tehran |
+|2018 |2021| **Diploma**, Diploma certificate of Mathematics and Physics, Farzanegan1 Highschool, Tehran, Iran |
 |-----|----|----------------------------------------------------------------------------------|
