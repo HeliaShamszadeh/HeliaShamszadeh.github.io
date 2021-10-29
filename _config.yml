@@ -149,7 +149,7 @@ footer:
       icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Linkedin"
-      icon: "fab fa-linkedin-in""
+      icon: "fab fa-linkedin-in"
       # url:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
