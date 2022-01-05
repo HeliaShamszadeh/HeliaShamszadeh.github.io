@@ -20,7 +20,11 @@ title: بهترین و بدترین خاطره
 بدترین خاطرۀ من مربوط میشه به امتحان عملی دوم، وقتی که انتظار داشتم بعد یک هفته سر و کله زدن با تمرین عملی اِی 2 بتونم امتحانو خوب بدم ولی برعکس شد!
 
 
+inmage: - url: /assets/images/lap.jpg
+    image_path: /assets/images/lap.jpg
 
+![][image]
 
+[image]: data:/assets/images/lap.jpg
 
 
