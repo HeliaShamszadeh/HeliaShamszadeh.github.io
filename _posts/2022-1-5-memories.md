@@ -22,5 +22,6 @@ title: بهترین و بدترین خاطره
 
 
 ![labexam](./image/lap.jpg)
+![labexam](../assets/images/lap.jpg)
 
 
