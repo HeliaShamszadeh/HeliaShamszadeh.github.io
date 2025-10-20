@@ -2,7 +2,7 @@
 layout: posts
 title: From Data to Meaning: My Journey into Machine Learning
 ---
-
+# **From Data to Meaning: My Journey into Machine Learning and Knowledge Representation**
 
 When I began my studies in **Computer Engineering at Iran University of Science and Technology (IUST)**, I was fascinated by how code could automate simple decisions and simulate logic. At the time, I thought programming was mainly about solving structured problems with exact rules. Over time, however, I realized that much of our world — especially language, perception, and human reasoning — does not follow clear boundaries or deterministic logic. This realization was the beginning of my path toward **machine learning** and **knowledge representation**.
 
