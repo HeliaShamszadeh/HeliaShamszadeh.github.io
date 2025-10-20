@@ -108,39 +108,39 @@ analytics:
 author:
   name             : "Helia Shamszadeh"
   avatar           : "/assets/images/bio.jpg"
-  bio              : I am a student of Computer Engineering at Iran University of Science and Technology. I hope you enjoy my website. 
+  bio              : I’m Helia Shams Zadeh Amiri, a recent Computer Engineering graduate from the Iran University of Science and Technology (IUST). My interests lie in data science, machine learning, and data engineering, with a focus on building intelligent and interpretable AI systems. I currently work as a Data Scientist at Ferrum Capital, applying data-driven models to financial risk prediction and credit scoring.
   location         : "Tehran, Iran"
   email            : shamszadehhelia@gmail.com
   # twitter: Albatrossism
   github: HeliaShamszadeh
   linkedin: helia-shamszadeh
   instagram: helia_shamszadeh
-  Telegram: Helia_ShZ
+  Telegram: helia_shmsz
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
+      url: shamszadehhelia@gmail.com
+    # - label: "Website"
+    #   icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
     # - label: "Twitter"
     #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
-      # url: "https://linkedin.com/in/helia-shamszadeh-a6228b224"
+      url: "https://linkedin.com/in/helia-shamszadeh"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
+      url: "https://github.com/HeliaShamszadeh/"
+    # - label: "Instagram"
+    #   icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      #url: "http://t.me/Helia_ShZ"
-    - label: "Calendly"
-      icon: "fas fa-calendar-alt"
-      #url: "http://calendly.com/pourrang_atashi"
+      url: "http://t.me/helia_shmsz"
+    # - label: "Calendly"
+    #   icon: "fas fa-calendar-alt"
+    #   #url: "http://calendly.com/pourrang_atashi"
 
 # Site Footer
 footer:
