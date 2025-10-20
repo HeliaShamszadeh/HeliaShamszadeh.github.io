@@ -8,8 +8,6 @@ modified: 2025-10-22
 comments: false
 ---
 
-# **Hobbies and Personal Interests**
-
 Outside of my academic and professional work, I dedicate time to a few activities that inspire both creativity and focus.
 
 * **Learning German** – I’m currently studying the German language to strengthen my communication skills and connect with European academic culture.  
