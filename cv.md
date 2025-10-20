@@ -5,7 +5,7 @@ permalink: /cv/
 title: Curriculum Vitae
 tags: [cv, academic, resume]
 modified: 2025-10-20
-comments: false
+comments: true
 ---
 
 # **Helia Shams Zadeh Amiri**
