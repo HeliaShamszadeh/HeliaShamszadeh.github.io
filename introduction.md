@@ -1,8 +1,8 @@
 ---
 layout: single
 author_profile: true
-permalink: /introduction/
-title: Introduction
+permalink: /aboutu/
+title: About
 tags: [about, biography, introduction]
 modified: 2025-10-20
 comments: false
