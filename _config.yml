@@ -108,7 +108,7 @@ analytics:
 author:
   name             : "Helia Shamszadeh"
   avatar           : "/assets/images/bio.jpg"
-  bio              : I’m Helia Shams Zadeh Amiri, a recent Computer Engineering graduate from the Iran University of Science and Technology (IUST). My interests lie in data science, machine learning, and data engineering, with a focus on building intelligent and interpretable AI systems. I currently work as a Data Scientist at Ferrum Capital, applying data-driven models to financial risk prediction and credit scoring.
+  bio              : I’m Helia Shams Zadeh Amiri, a Computer Engineering graduate from IUST. I’m passionate about data science, machine learning, and data engineering, focusing on interpretable AI systems. I work as a Data Scientist at Ferrum Capital, developing models for financial risk prediction.
   location         : "Tehran, Iran"
   # email            : shamszadehhelia@gmail.com
   # twitter: Albatrossism
