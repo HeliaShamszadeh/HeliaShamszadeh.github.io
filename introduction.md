@@ -1,7 +1,7 @@
 ---
 layout: single
 author_profile: true
-permalink: /about/
+permalink: /
 title: About
 tags: [about, biography, introduction]
 modified: 2025-10-20
