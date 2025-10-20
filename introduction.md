@@ -8,8 +8,6 @@ modified: 2025-10-20
 comments: false
 ---
 
-# **Introduction**
-
 My name is **Helia Shams Zadeh Amiri**, and I am currently completing my **Bachelor of Science in Computer Engineering** at the **Iran University of Science and Technology (IUST)** in Tehran. From the early stages of my academic journey, I have been deeply interested in how data and algorithms can reveal structure, meaning, and intelligence within complex systems. This curiosity gradually led me toward **data science, machine learning, and natural language understanding** — areas where I now focus my academic and professional efforts.
 
 During my undergraduate studies, I have had the opportunity to explore a wide range of fields — from **computer vision and artificial intelligence** to **semantic knowledge representation** and **bioinformatics**. My undergraduate thesis, *“Transforming Text into Structured Knowledge: A Frame-Semantics and RDF-based Approach,”* reflects my growing interest in bridging **language, logic, and computation** to create interpretable AI systems. I believe that developing models capable of understanding and structuring unstructured data is key to advancing both research and real-world applications.

@@ -2,6 +2,8 @@
 main:
 #  - title: "Quick-Start Guide"
 #    url: https://mmistakes.github.io/minimal-mistakes/docs/quick-start-guide/
+  - title: "Introduction"
+    url: /introduction/
   - title: "CV"
     url: /cv/
   - title: "Courses"
@@ -12,8 +14,7 @@ main:
   #   url: /links/
   - title: "Hobbies"
     url: /hobbies/  
-  - title: "Introduction"
-    url: /introduction/
+
   # - title: "Blog"
   #   url: /blog/
   # - title: "About"
