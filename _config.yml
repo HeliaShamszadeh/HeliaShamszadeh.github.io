@@ -13,7 +13,7 @@
 #theme                  : "minimal-mistakes-jekyll"
 remote_theme: "mmistakes/minimal-mistakes@4.16.0"
 # remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "aqua" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "default" #"default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-US" 
@@ -83,8 +83,8 @@ yandex_site_verification :
 naver_site_verification  :
 
 # Social Sharing
-twitter:
-  username               : Albatrossism
+# twitter:
+#   username               : Albatrossism
 facebook:
   app_id                 :
   publisher              :
@@ -110,10 +110,10 @@ author:
   avatar           : "/assets/images/bio.jpg"
   bio              : I am a student of Computer Engineering at Iran University of Science and Technology. I hope you enjoy my website. 
   location         : "Tehran, Iran"
-  email            : h.shamszadeh81@gmai.com
-  twitter: Albatrossism
+  email            : shamszadehhelia@gmail.com
+  # twitter: Albatrossism
   github: HeliaShamszadeh
-  linkedin: helia-shamszadeh-a6228b224
+  linkedin: helia-shamszadeh
   instagram: helia_shamszadeh
   Telegram: Helia_ShZ
   links:
@@ -123,8 +123,8 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       # url: "https://your-website.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
@@ -145,8 +145,8 @@ author:
 # Site Footer
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
       # url:
     - label: "Linkedin"
       icon: "fab fa-linkedin-in"
